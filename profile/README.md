@@ -23,8 +23,22 @@ compared to the industry tool that does the same job.
 
 - 📘 [Paperback on Amazon](https://www.amazon.com/dp/9083782107)
 - 💾 [Ebook (PDF + EPUB)](https://technovize.com/publisher/@kcramo/the-signal-path/)
-- 🧑‍💻 [Companion code](https://github.com/DjangoZenDev/signal-path) — sixteen
+- 🧑‍💻 [Companion code](https://github.com/technovize/signal-path) — sixteen
   chapter directories, free to use
+
+### DevOps Learning Roadmap — *From Cloud Fundamentals to CI/CD, Kubernetes, IaC, DevSecOps, and Certification*
+by KC Ramo · 546 pages · ISBN 978-90-8378-211-9
+
+The whole DevOps landscape, one tutorial at a time. Eleven hands-on tutorials
+from a first cloud account to a portfolio and a certification plan — each ending
+in lab exercises on free tiers, a quiz, a troubleshooting guide and flashcards.
+Cloud, scripting, configuration management, containers, pipelines, infrastructure
+as code, monitoring and security.
+
+- 📘 [Paperback on Amazon](https://www.amazon.com/dp/9083782115)
+- 💾 [Ebook (PDF + EPUB)](https://technovize.com/publisher/@kcramo/devops-learning-roadmap/)
+- 🧑‍💻 [Companion code](https://github.com/technovize/devops-roadmap) — 389 files
+  across eleven tutorials, MIT licensed
 
 ### The Ascent — *One System, Every Architecture*
 by KC Ramo · 303 pages · ISBN 978-90-8378-212-6
@@ -53,10 +67,11 @@ imprint rather than a platform's.
 
 ## Companion code licence
 
-The companion repositories use the **Companion Code License**: build with it,
+Most companion repositories use the **Companion Code License**: build with it,
 learn from it, use it in your own work — just don't republish the book or the
 code as your own. GitHub shows this as `NOASSERTION`, which is expected: it is
-a custom licence, not a missing one.
+a custom licence, not a missing one. The *DevOps Learning Roadmap* repository is
+**MIT licensed**; each repository states its own terms in `LICENSE`.
 
 ---
 
