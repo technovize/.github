@@ -26,11 +26,18 @@ compared to the industry tool that does the same job.
 - 🧑‍💻 [Companion code](https://github.com/DjangoZenDev/signal-path) — sixteen
   chapter directories, free to use
 
-### The Ascent
-by KC Ramo
+### The Ascent — *One System, Every Architecture*
+by KC Ramo · 303 pages · ISBN 978-90-8378-212-6
 
-- 💾 [Ebook](https://technovize.com/publisher/@kcramo/the-ascent/)
-- 🧑‍💻 [Companion code](https://github.com/DjangoZenDev/beacon)
+One application, Beacon, followed from a single Django process on a laptop to a
+planet-scale distributed system. Sixteen chapters, one continuous story: each
+chapter opens with a scaling crisis caused by the previous chapter's success,
+and works through the fix with real code and explicit trade-offs.
+
+- 📘 [Paperback on Amazon](https://www.amazon.com/dp/9083782123)
+- 💾 [Ebook (PDF + EPUB)](https://technovize.com/publisher/@kcramo/the-ascent/)
+- 🧑‍💻 [Companion code](https://github.com/technovize/beacon) — sixteen chapter
+  directories, one per step of the climb
 
 ---
 
